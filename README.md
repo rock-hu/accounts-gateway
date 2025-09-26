@@ -2,20 +2,20 @@
 
 📚 Getting Started
 
-|            artifactId            |   port    | prefixes |
-|----------------------------------|-----------|----------|
-| statements-services              | ``   | `` |
-| standing-orders-services         | ``   | `` |
-| scheduled-payments-services      | ``   | `` |
-| products-services                | ``   | `` |
-| parties-services                 | ``   | `` |
-| account-access-consents-services | ``   | `` |
-| balances-services                | ``   | `` |
-| beneficiaries-services           | ``   | `` |
-| direct-debits-services           | ``   | `` |
-| offers-services                  | ``   | `` |
-| transactions-services            | ``   | `` |
-| accounts-services                | ``   | `` |
+| artifactId                       | port | prefixes |
+| -------------------------------- | ---- | -------- |
+| statements-services              | ``   | ``       |
+| standing-orders-services         | ``   | ``       |
+| scheduled-payments-services      | ``   | ``       |
+| products-services                | ``   | ``       |
+| parties-services                 | ``   | ``       |
+| account-access-consents-services | ``   | ``       |
+| balances-services                | ``   | ``       |
+| beneficiaries-services           | ``   | ``       |
+| direct-debits-services           | ``   | ``       |
+| offers-services                  | ``   | ``       |
+| transactions-services            | ``   | ``       |
+| accounts-services                | ``   | ``       |
 
 ## maven
 
@@ -25,7 +25,7 @@ mvn spotless:apply
 
 🤝 Contribution
 
-![Alt](https://repobeats.axiom.co/api/embed/6c70cd7eb66e6457dd1727fbbfa6ce27a244338f.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/ce590956b8ebc62a7741645192d307c1422aa229.svg "Repobeats analytics image")
 
 [![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-light.svg)](https://sonarcloud.io/summary/new_code?id=rock-hu_accounts-gateway)
 
